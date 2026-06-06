@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Ran linter, applied auto-fixes
 - Drafted initial implementation plan for v2
+
+## 2026-06-06
+- Added healthcheck endpoint stub
+- Verified API endpoint response schema
